@@ -24,20 +24,6 @@ The lab provides students with the opportunity to **explore, collaborate, and co
 
 This platform demonstrates full-stack development, database management, and user-centric design, while supporting AUI’s mission to **promote digital innovation and research excellence**.
 
----
-
-## 🛠️ Technology Stack
-
-| Component       | Technology                                |
-|-----------------|------------------------------------------|
-| **Frontend**    | HTML5, CSS3, JavaScript, Bootstrap/Tailwind |
-| **Backend**     | Django / Flask                            |
-| **Database**    | PostgreSQL / SQLite                       |
-| **Web Server**  | Nginx + Gunicorn (Production)            |
-| **Version Control** | Git + GitHub                          |
-
----
-
 ## ✨ Key Features
 
 - 🌟 **Responsive Design:** Optimized for desktop, tablet, and mobile  
