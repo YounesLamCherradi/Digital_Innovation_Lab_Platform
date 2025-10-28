@@ -59,9 +59,9 @@ This platform demonstrates full-stack development, database management, and user
 
 ## 📬 Contact
 
-**Developer:** Lamhamedi-Cherardi Younes  
+**Developer:** Lamhamedi-Cherradi Younes  
 **GitHub:** [https://github.com/your-username](https://github.com/your-username)  
-**Email:** [Your email here]  
+**Email:** [younes@lamhamedicherradi.com]  
 
 ---
 
