@@ -53,15 +53,15 @@ This platform demonstrates full-stack development, database management, and user
 - Developed **entirely by Lamhamedi-Cherardi Younes**  
 - Professional, full-stack web development experience  
 - Showcases **innovation, research, and student participation**  
-- Live, production-ready website: [https://innovation.aui.ma](https://innovation.aui.ma)  
+- Live, production-ready website: [https://innovation.aui.ma](https://dil.aui.ma)  
 
 ---
 
 ## 📬 Contact
 
 **Developer:** Lamhamedi-Cherradi Younes  
-**GitHub:** [https://github.com/your-username](https://github.com/your-username)  
-**Email:** [younes@lamhamedicherradi.com]  
+**GitHub:** [https://github.com/your-username](https://github.com/YounesLamCherradi)  
+**Email:** younes@lamhamedicherradi.com 
 
 ---
 
