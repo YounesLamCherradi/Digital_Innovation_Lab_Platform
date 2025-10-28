@@ -50,7 +50,7 @@ This platform demonstrates full-stack development, database management, and user
 
 ## 🏆 Highlights & Achievements
 
-- Developed **entirely by Lamhamedi-Cherardi Younes**  
+- Developed **entirely by Lamhamedi-Cherradi Younes**  
 - Professional, full-stack web development experience  
 - Showcases **innovation, research, and student participation**  
 - Live, production-ready website: [https://dil.aui.ma](https://dil.aui.ma)  
