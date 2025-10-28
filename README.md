@@ -53,7 +53,7 @@ This platform demonstrates full-stack development, database management, and user
 - Developed **entirely by Lamhamedi-Cherardi Younes**  
 - Professional, full-stack web development experience  
 - Showcases **innovation, research, and student participation**  
-- Live, production-ready website: [https://innovation.aui.ma](https://dil.aui.ma)  
+- Live, production-ready website: [https://dil.aui.ma](https://dil.aui.ma)  
 
 ---
 
