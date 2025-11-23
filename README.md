@@ -1,7 +1,7 @@
 # 🌐 Digital Innovation Lab Website – Al Akhawayn University
 
 **Developer:** Lamhamedi-Cherardi Younes  
-**Live Website:** [Visit Live Site](https://innovation.aui.ma)  
+**Live Website:** [Visit Live Site](https://dil.aui.ma)  
 **Status:** ✅ Live and maintained by Al Akhawayn University  
 
 ---
