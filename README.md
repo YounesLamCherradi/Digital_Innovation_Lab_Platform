@@ -14,34 +14,34 @@ The **Digital Innovation Lab (DIL)** website serves as the flagship digital gate
 
 Designed and engineered to reflect 2026 standards of institutional web excellence, the platform delivers a **visually immersive, motion-forward experience** that moves beyond static academic pages. It employs:
 
-- Fluid scroll-triggered animations and micro-interactions (GSAP-powered or CSS-first)  
-- Subtle parallax depth and layered element reveals  
-- Elegant animated transitions between sections  
-- Modern, non-monolithic color architecture: adaptive light/dark modes with rich gradients, deep neutral bases (#0f121a–#1a1f2e range), vibrant institutional accents (AUI blues/teals with energetic highlights), and high-contrast typography for readability and sophistication  
-- Fully responsive, accessible layouts optimized for global academic and industry audiences  
+- Fluid scroll-triggered animations and purposeful micro-interactions  
+- Subtle parallax depth effects and layered element reveals  
+- Elegant animated transitions between sections and on user interaction  
+- Contemporary color architecture: adaptive light/dark modes with rich gradients, deep neutral foundations, vibrant institutional accents (AUI-inspired blues/teals with dynamic highlights), and optimized contrast for accessibility and sophistication  
+- Fully responsive, performant layouts tailored for global academic, research, and industry audiences  
 
-This results in a dynamic, engaging presence that communicates innovation — not merely information.
+This creates a dynamic, engaging digital presence that embodies innovation through both content and experience design.
 
 ## Core Platform Features
 
 | Section              | Purpose & Key Experience Elements                                                                 |
 |----------------------|---------------------------------------------------------------------------------------------------|
-| **Hero / Homepage**  | Bold mission statement with animated gradient overlays, typing/reveal effects on key phrases, parallax background depth, and interactive call-to-action elements. |
-| **Our Team**         | Card-based profiles with hover micro-animations (scale, glow, info reveal), smooth entry animations on scroll, expertise tags with animated borders. |
-| **News & Publications** | Chronological feed with fade-in cards, animated date badges, and smooth load-more transitions; supports rich media previews. |
-| **Projects & Initiatives** | Interactive timeline or grid with scroll-progress animations, hover state expansions, and subtle progress indicators for ongoing work. |
-| **Apply / Collaborate** | Multi-step form with animated field focus states, progress bar animation, and success micro-interactions. |
-| **Partners**         | Logo carousel or grid with gentle hover animations and grayscale-to-color transitions on interaction. |
-| **Contact & Reach**  | Animated map integration (if applicable), form with real-time validation feedback, and floating contact CTA that animates into view. |
+| **Hero / Homepage**  | Bold mission introduction with animated gradient overlays, text-reveal animations, parallax background depth, and interactive CTAs that respond with smooth motion. |
+| **Our Team**         | Profile cards featuring hover-activated micro-animations (scale, subtle glow, expertise reveal), scroll-entry fades, and animated tag borders. |
+| **News & Publications** | Chronological feed with animated card entrances, date badge transitions, and fluid load-more effects; supports embedded media previews. |
+| **Projects & Initiatives** | Interactive grid or timeline with scroll-progress animations, hover expansions, and meaningful progress indicators. |
+| **Apply / Collaborate** | Multi-step engagement forms with animated input focus states, real-time progress visualization, and success confirmation micro-interactions. |
+| **Partners**         | Logo showcase with gentle hover-to-color transitions and smooth carousel or grid animations. |
+| **Contact & Reach**  | Floating or animated CTA elements, form validation feedback with motion, and seamless integration of institutional linkage points. |
 
-All sections feature **smooth page transitions**, **scroll smoothing**, and **performance-optimized motion** to ensure delight without compromising load times or accessibility (WCAG 2.2 AA compliant).
+All sections incorporate **smooth page transitions**, **enhanced scroll behavior**, and **optimized motion performance** while maintaining WCAG 2.2 AA accessibility compliance.
 
 ## Strategic Design & Technical Philosophy
 
-- **Visual Identity** — Departing from flat white/minimalist defaults, the design leverages **contemporary dark-leaning aesthetics** with gradient depth, neumorphic accents (where appropriate), and purposeful motion to evoke forward-thinking innovation.  
-- **Motion Strategy** — Animations are meaningful: guiding attention, revealing hierarchy, and reinforcing narrative flow (e.g., elements “rise” into place as users scroll, creating immersion).  
-- **Institutional Alignment** — Consistent with Al Akhawayn University branding while pushing boundaries to position DIL as a leader in digital scholarship and inclusive tech development.  
-- **Security & Scalability** — Built with DevSec principles: secure headers, input sanitization, DPI-aware architecture concepts, and future-proof structure for easy content expansion.
+- **Visual Identity** — Moving beyond flat, white-dominant designs, the platform adopts a **modern, depth-rich aesthetic** with gradient layering, purposeful motion, and adaptive theming to convey forward-thinking institutional leadership.  
+- **Motion Strategy** — Animations are intentional: directing user attention, establishing visual hierarchy, and enhancing narrative immersion (e.g., elements elegantly rise or fade into view during scroll).  
+- **Institutional Alignment** — Harmonized with Al Akhawayn University branding guidelines while advancing DIL’s position as a pioneer in digital scholarship and inclusive technology development.  
+- **Security & Scalability** — Engineered with DevSec-first principles: secure-by-design patterns, DPI conceptual alignment, and extensible architecture for sustained institutional growth.
 
 ## Contributor Scope & Impact
 
@@ -49,11 +49,11 @@ As DevSec & Solution Integrator, core responsibilities included:
 
 | Contribution Area                  | Key Deliverables & Outcomes                                                                 |
 |------------------------------------|---------------------------------------------------------------------------------------------|
-| Full-Stack Implementation          | End-to-end development (frontend architecture + backend logic)                             |
-| Secure Feature Integration         | Authentication, data protection, secure API patterns, penetration-testing readiness        |
-| DPI & Inclusive Design Alignment   | Conceptual support for digital public infrastructure principles in platform features      |
-| Animation & UX Motion Design       | Scroll effects, transitions, micro-interactions enhancing perceived performance & delight |
-| Architecture & Maintainability     | Modular components, clean code practices, CI/CD readiness for long-term institutional use  |
+| Full-Stack Implementation          | Comprehensive frontend/backend development and integration                                      |
+| Secure Feature Integration         | Authentication flows, data protection, secure APIs, penetration-testing preparedness       |
+| DPI & Inclusive Design Alignment   | Incorporation of digital public infrastructure principles in feature set and UX            |
+| Animation & UX Motion Design       | Scroll-triggered effects, transitions, and micro-interactions for elevated user delight     |
+| Architecture & Maintainability     | Modular, clean-code structure with long-term scalability and institutional maintainability  |
 
 Aligned research domains:  
 - Digital Identity & Trust Frameworks  
@@ -66,10 +66,10 @@ This repository is strictly **private** and reserved for internal team reference
 
 **Inquiries / Collaboration**  
 Lamhamedi-Cherradi Younes  
-Email: [Preferred internal channel]  
+Email: younes@lamhamedicherradi.com  
 
 ---
 
 *Version & Last Significant Update*: February 2026  
 *© 2026 Digital Innovation Lab — Al Akhawayn University*  
-All rights reserved.  
+All rights reserved.
