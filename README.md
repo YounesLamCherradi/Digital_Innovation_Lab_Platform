@@ -1,57 +1,75 @@
-# 🌐 Digital Innovation Lab Website – Al Akhawayn University
+# dil.aui.ma – Digital Innovation Lab Website
 
-**Developer:** Lamhamedi-Cherardi Younes  
-**Live Website:** [Visit Live Site](https://dil.aui.ma)  
-**Status:** ✅ Live and maintained by Al Akhawayn University  
+**Al Akhawayn University Project**
+
+**Contributor**: Lamhamedi-Cherradi Younes  
+**Institution**: Al Akhawayn University in Ifrane (AUI), Morocco  
+**Role / Contribution**: DevSec & Solution Integrator – Web Development, DPI, Cybersecurity features & integration  
+**Project Type**: Academic / Institutional Web Platform  
+**Website**: [https://dil.aui.ma](https://dil.aui.ma)
+
+## 🌟 Project Overview
+
+This repository contains the source code for **dil.aui.ma**, the official website of the **Digital Innovation Lab** at Al Akhawayn University.
+
+The platform serves as the public-facing digital presence of the lab, showcasing:
+
+- The lab's mission in digital innovation, research, and development
+- Team members and their expertise
+- News, articles, and ongoing initiatives
+- Application / collaboration opportunities
+- Contact information and institutional links
+
+The website was developed as part of university activities to demonstrate modern full-stack web development practices, clean UI/UX design, and integration of secure & scalable technologies.
+
+## 🖥️ Key Sections & Features
+
+- **Homepage** — Lab introduction, mission, and highlights
+- **Team** — Profiles of contributors, including roles in web development, DPI (Digital Public Infrastructure), cybersecurity, penetration testing, and solution integration
+- **News & Articles** — Updates on lab activities, research, and publications
+- **Apply Now** — Forms / information for joining projects or collaborations
+- **Contact Us** — Official email (dil@aui.ma), phone, address, and links to AUI main site
+- **Responsive & modern design** — Optimized for desktop, tablet, and mobile devices
+
+## ⚡ Technologies & Tools Used
+
+- **Frontend**: HTML5, CSS3, JavaScript (possibly with frameworks like React / vanilla JS)
+- **Backend**: Python – Django (primary), Flask (supplementary)
+- **Database**: MongoDB
+- **Server & Deployment**: Nginx, Linux environment
+- **Other areas of focus**: Git version control, secure development practices, integration with Digital Public Infrastructure concepts, cybersecurity considerations
+
+## 📌 Project Purpose & Context
+
+This website was built in the context of Al Akhawayn University's academic and innovation ecosystem. It reflects hands-on experience with:
+
+- Full-stack web application development
+- Secure and professional-grade deployment
+- Clear presentation of institutional / research content
+- Contribution to university digital infrastructure
+
+The README serves purely as internal documentation for the project structure, technologies applied, and contributor context.  
+This repository is **private** and not intended for public access, cloning, or distribution.
+
+## ✨ Highlights of Contribution
+
+As DevSec & Solution Integrator, key areas of work included:
+
+- Web development and frontend/backend implementation
+- Integration of secure features and best practices
+- Support for Digital Public Infrastructure (DPI) concepts
+- Cybersecurity-aware design and potential penetration testing considerations
+- Overall solution architecture for maintainability and scalability
+
+Related academic/research interests & work:
+
+- Digital Identity systems
+- Cybersecurity & network security
+- Secure & inclusive digital platforms
+
+For any internal questions or updates related to this project, contact:  
+**Lamhamedi-Cherradi Younes**
 
 ---
-
-## 🏛️ Project Overview
-
-The **Digital Innovation Lab Website** at **Al Akhawayn University (AUI)** is a platform dedicated to fostering **research, innovation, and student-led projects** in emerging fields such as:  
-
-- 🤖 **Artificial Intelligence (AI)**  
-- 🛡️ **Cybersecurity**  
-- 🧩 **Digital Public Infrastructures (DPIs)**  
-- 🆔 **Digital Identities**  
-
-The lab provides students with the opportunity to **explore, collaborate, and contribute** to real-world projects. This website serves as the **central hub** for:  
-
-- Showcasing **ongoing and completed innovation projects**  
-- Highlighting **student work, publications, and lab achievements**  
-- Allowing students to **apply for projects and participate actively**  
-- Facilitating **academic and industry collaborations**  
-
-This platform demonstrates full-stack development, database management, and user-centric design, while supporting AUI’s mission to **promote digital innovation and research excellence**.
-
-## ✨ Key Features
-
-- 🌟 **Responsive Design:** Optimized for desktop, tablet, and mobile  
-- 🗂️ **Admin Dashboard:** Efficient content management for projects and publications  
-- 📊 **Project Showcase:** Organized listing of lab projects and student achievements  
-- 📬 **Contact Form:** Streamlined communication for collaboration opportunities  
-- 👩‍🎓 **Student Engagement:** Students can explore, apply, and contribute to lab projects  
-
----
-
-## 🏆 Highlights & Achievements
-
-- Developed **entirely by Lamhamedi-Cherradi Younes**  
-- Professional, full-stack web development experience  
-- Showcases **innovation, research, and student participation**  
-- Live, production-ready website: [https://dil.aui.ma](https://dil.aui.ma)  
-
----
-
-## 📬 Contact
-
-**Developer:** Lamhamedi-Cherradi Younes  
-**GitHub:** [YounesLamCherradi](https://github.com/YounesLamCherradi)  
-**Email:** younes@lamhamedicherradi.com 
-
----
-
-## 📜 License
-
-This project is **licensed for academic and internal use** by Al Akhawayn University.  
-Public redistribution or reuse requires university permission.
+*Last updated: February 2026*  
+*© Digital Innovation Lab – Al Akhawayn University*
