@@ -1,75 +1,83 @@
-# dil.aui.ma – Digital Innovation Lab Website
-
+# dil.aui.ma – Digital Innovation Lab Website  
 **Al Akhawayn University Project**
 
 **Contributor**: Lamhamedi-Cherradi Younes  
 **Institution**: Al Akhawayn University in Ifrane (AUI), Morocco  
-**Role / Contribution**: DevSec & Solution Integrator – Web Development, DPI, Cybersecurity features & integration  
+**Role / Contribution**: DevSec & Solution Integrator – Full-Stack Web Development, Digital Public Infrastructure Integration, Cybersecurity Features  
 **Project Type**: Academic / Institutional Web Platform  
-**Website**: [https://dil.aui.ma](https://dil.aui.ma)
+**Live Website**: https://dil.aui.ma
 
-## 🌟 Project Overview
+## Project Overview
 
-This repository contains the source code for **dil.aui.ma**, the official website of the **Digital Innovation Lab** at Al Akhawayn University.
+This repository contains the source code for the official website of the **Digital Innovation Lab** (DIL) at Al Akhawayn University.  
 
-The platform serves as the public-facing digital presence of the lab, showcasing:
+The platform serves as the primary digital interface for the Lab, effectively communicating its vision, activities, and engagement opportunities to internal and external stakeholders. Core content includes:
 
-- The lab's mission in digital innovation, research, and development
-- Team members and their expertise
-- News, articles, and ongoing initiatives
-- Application / collaboration opportunities
-- Contact information and institutional links
+- The Lab’s mission and strategic focus areas in digital innovation  
+- Profiles and expertise of faculty, researchers, and contributors  
+- News, research updates, publications, and ongoing initiatives  
+- Opportunities for collaboration, student involvement, and project applications  
+- Official contact details and institutional linkages  
 
-The website was developed as part of university activities to demonstrate modern full-stack web development practices, clean UI/UX design, and integration of secure & scalable technologies.
+Developed within the University’s academic and innovation framework, the website exemplifies professional full-stack development, modern UI/UX principles, secure architecture, and attention to scalability and accessibility.
 
-## 🖥️ Key Sections & Features
+## Key Sections & Features
 
-- **Homepage** — Lab introduction, mission, and highlights
-- **Team** — Profiles of contributors, including roles in web development, DPI (Digital Public Infrastructure), cybersecurity, penetration testing, and solution integration
-- **News & Articles** — Updates on lab activities, research, and publications
-- **Apply Now** — Forms / information for joining projects or collaborations
-- **Contact Us** — Official email (dil@aui.ma), phone, address, and links to AUI main site
-- **Responsive & modern design** — Optimized for desktop, tablet, and mobile devices
+- **Homepage**  
+  Engaging introduction to the Lab, mission statement, innovation focus areas, and dynamic highlights with fluid animations and responsive layouts.
 
-## ⚡ Technologies & Tools Used
+- **Our Team**  
+  Detailed contributor profiles showcasing expertise in web engineering, digital public infrastructure (DPI), cybersecurity, penetration testing, solution architecture, and related domains.
 
-- **Frontend**: HTML5, CSS3, JavaScript (possibly with frameworks like React / vanilla JS)
-- **Backend**: Python – Django (primary), Flask (supplementary)
-- **Database**: MongoDB
-- **Server & Deployment**: Nginx, Linux environment
-- **Other areas of focus**: Git version control, secure development practices, integration with Digital Public Infrastructure concepts, cybersecurity considerations
+- **News & Articles**  
+  Curated updates on research outcomes, events, publications, and Lab achievements.
 
-## 📌 Project Purpose & Context
+- **Projects**  
+  Overview of current and completed initiatives, including methodology from ideation to deployment.
 
-This website was built in the context of Al Akhawayn University's academic and innovation ecosystem. It reflects hands-on experience with:
+- **Apply Now**  
+  Structured information and forms for prospective collaborators, interns, researchers, and partners.
 
-- Full-stack web application development
-- Secure and professional-grade deployment
-- Clear presentation of institutional / research content
-- Contribution to university digital infrastructure
+- **Partners & Collaboration**  
+  Institutional alliances and strategic cooperation frameworks.
 
-The README serves purely as internal documentation for the project structure, technologies applied, and contributor context.  
-This repository is **private** and not intended for public access, cloning, or distribution.
+- **Contact Us**  
+  Official communication channels, physical address, and links to Al Akhawayn University.
 
-## ✨ Highlights of Contribution
+The design prioritizes a clean, professional, and contemporary aesthetic with smooth animated transitions, scroll-based effects, interactive elements, and full mobile responsiveness to ensure an elevated user experience across devices.
 
-As DevSec & Solution Integrator, key areas of work included:
+## Project Context & Purpose
 
-- Web development and frontend/backend implementation
-- Integration of secure features and best practices
-- Support for Digital Public Infrastructure (DPI) concepts
-- Cybersecurity-aware design and potential penetration testing considerations
-- Overall solution architecture for maintainability and scalability
+This platform was realized as part of Al Akhawayn University’s commitment to advancing digital infrastructure and innovation in Morocco and across the continent. It demonstrates practical application of:
 
-Related academic/research interests & work:
+- Full-stack web application development  
+- Secure, production-grade deployment practices  
+- Effective presentation of academic and research content  
+- Contribution to institutional digital presence and infrastructure  
 
-- Digital Identity systems
-- Cybersecurity & network security
-- Secure & inclusive digital platforms
+The site incorporates cybersecurity best practices, maintainable architecture, and thoughtful integration of Digital Public Infrastructure concepts throughout its design and implementation.
 
-For any internal questions or updates related to this project, contact:  
+## Contributor Highlights
+
+In the capacity of DevSec & Solution Integrator, primary responsibilities encompassed:
+
+- End-to-end web development (frontend and backend implementation)  
+- Design and integration of security-focused features and best practices  
+- Alignment with Digital Public Infrastructure principles  
+- Architecture decisions supporting long-term maintainability and scalability  
+- Consideration of penetration testing and resilience requirements  
+
+Related research and academic interests include digital identity systems, cybersecurity, network security, and inclusive, secure digital platform development.
+
+## Repository Note
+
+This repository is **private** and intended solely for internal project documentation, version control, and team reference. It is not designed for public access, cloning, or redistribution.
+
+For inquiries or updates related to this project, please contact:  
 **Lamhamedi-Cherradi Younes**
 
 ---
+
 *Last updated: February 2026*  
-*© Digital Innovation Lab – Al Akhawayn University*
+*© 2026 Digital Innovation Lab – Al Akhawayn University*  
+All rights reserved.
