@@ -5,7 +5,7 @@ Al Akhawayn University – Ifrane, Morocco
 **Created by**: Lamhamedi-Cherradi Younes  
 **My role**: DevSec & Solution Integrator | Full-Stack Developer | DPI & Cybersecurity Focus  
 **Project type**: University institutional platform  
-**Live at**: https://dil.aui.ma  
+**Live at**: https://dil.aui.ma   // Maintenance // 
 **Repo note**: Private – only for the team and internal use
 
 ## What the site is for
